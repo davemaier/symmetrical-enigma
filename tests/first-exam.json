@@ -1,0 +1,26 @@
+{
+  "description": "A test exam",
+  "passing_percentage": 60,
+  "questions": [
+    {
+      "kind": "single_choice",
+      "options": [
+        {
+          "correct": false,
+          "key": "test_49250",
+          "text": "Test"
+        },
+        {
+          "correct": true,
+          "key": "another_test_49314",
+          "text": "Another test"
+        }
+      ],
+      "points": 1,
+      "prompt": "Something else",
+      "required": true
+    }
+  ],
+  "status": "published",
+  "title": "First exam"
+}

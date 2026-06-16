@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "attachment": {
+        "lesson_source_path": "lessons/2026-06-11-dickinson-sample-slides.pptx",
+        "target": "lesson"
+      },
+      "description": "Hallo",
+      "external_url": null,
+      "file": {
+        "byte_size": 871383,
+        "content_type": "application/pdf",
+        "filename": "an250108-maier.pdf",
+        "original_filename": "AN250108_Maier.pdf",
+        "path": "materials/files/7cMlExkpH_9IUe0IUc9X4H2J/an250108-maier.pdf"
+      },
+      "id": "7cMlExkpH_9IUe0IUc9X4H2J",
+      "kind": "file",
+      "status": "published",
+      "title": "Test2"
+    },
+    {
+      "attachment": {
+        "target": "course"
+      },
+      "description": "",
+      "external_url": null,
+      "file": {
+        "byte_size": 4791447,
+        "content_type": "application/pdf",
+        "filename": "schelling-segregationsmodell.pdf",
+        "original_filename": "Schelling Segregationsmodell.pdf",
+        "path": "materials/files/7wU1xaMsaGEmO_5Y-NEZRCq0/schelling-segregationsmodell.pdf"
+      },
+      "id": "7wU1xaMsaGEmO_5Y-NEZRCq0",
+      "kind": "file",
+      "status": "published",
+      "title": "Schelling Segregationsmodell"
+    },
+    {
+      "attachment": {
+        "target": "course"
+      },
+      "description": "",
+      "external_url": "https://orf.at",
+      "file": null,
+      "id": "Dd6mKVMVayt-KaLJu_ECfqt6",
+      "kind": "link",
+      "status": "published",
+      "title": "Test"
+    },
+    {
+      "attachment": {
+        "target": "course"
+      },
+      "description": "",
+      "external_url": null,
+      "file": {
+        "byte_size": 139710,
+        "content_type": "image/jpeg",
+        "filename": "signal-2025-10-05-090255-002.jpg",
+        "original_filename": "signal-2025-10-05-090255_002.jpeg",
+        "path": "materials/files/KRr7a8KN9uxIvsadKzBsoO-D/signal-2025-10-05-090255-002.jpg"
+      },
+      "id": "KRr7a8KN9uxIvsadKzBsoO-D",
+      "kind": "file",
+      "status": "archived",
+      "title": "hans"
+    },
+    {
+      "attachment": {
+        "target": "course"
+      },
+      "description": "This is really nice?",
+      "external_url": null,
+      "file": {
+        "byte_size": 1554293,
+        "content_type": "application/pdf",
+        "filename": "defining-success.pdf",
+        "original_filename": "defining_success.pdf",
+        "path": "materials/files/PcnP1TNZYW_B_JHAPqjdjZT3/defining-success.pdf"
+      },
+      "id": "PcnP1TNZYW_B_JHAPqjdjZT3",
+      "kind": "file",
+      "status": "draft",
+      "title": "defining succes"
+    },
+    {
+      "attachment": {
+        "target": "course"
+      },
+      "description": "banid",
+      "external_url": null,
+      "file": {
+        "byte_size": 139710,
+        "content_type": "image/jpeg",
+        "filename": "signal-2025-10-05-090255-002.jpg",
+        "original_filename": "signal-2025-10-05-090255_002.jpeg",
+        "path": "materials/files/W0wAK9lNW9NMwDZHR2srleMf/signal-2025-10-05-090255-002.jpg"
+      },
+      "id": "W0wAK9lNW9NMwDZHR2srleMf",
+      "kind": "file",
+      "status": "published",
+      "title": "handi"
+    },
+    {
+      "attachment": {
+        "target": "course"
+      },
+      "description": "",
+      "external_url": null,
+      "file": {
+        "byte_size": 1554293,
+        "content_type": "application/pdf",
+        "filename": "defining-success.pdf",
+        "original_filename": "defining_success.pdf",
+        "path": "materials/files/ifJ8TgDpwVQoAvmqDZY4ki-P/defining-success.pdf"
+      },
+      "id": "ifJ8TgDpwVQoAvmqDZY4ki-P",
+      "kind": "file",
+      "status": "published",
+      "title": "defining success"
+    }
+  ],
+  "version": 1
+}

@@ -51,6 +51,25 @@
     },
     {
       "attachment": {
+        "lesson_source_path": "lessons/2026-06-11-schelling-segregation-abschlussgruppe-6.pdf",
+        "target": "lesson"
+      },
+      "description": "Fine",
+      "external_url": null,
+      "file": {
+        "byte_size": 145771,
+        "content_type": "application/pdf",
+        "filename": "expose.pdf",
+        "original_filename": "expose.pdf",
+        "path": "materials/files/samwill/expose.pdf"
+      },
+      "id": "EkWymznUXWBrMp7ninRGfjJe",
+      "kind": "file",
+      "status": "draft",
+      "title": "Samwill"
+    },
+    {
+      "attachment": {
         "target": "course"
       },
       "description": "",

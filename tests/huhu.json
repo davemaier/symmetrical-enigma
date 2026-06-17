@@ -4,7 +4,13 @@
   "questions": [
     {
       "kind": "single_choice",
-      "options": [],
+      "options": [
+        {
+          "correct": false,
+          "key": "hiuh_81445",
+          "text": "hiuh"
+        }
+      ],
       "points": 1,
       "prompt": "huuhi",
       "required": true

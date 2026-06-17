@@ -4,7 +4,13 @@
   "questions": [
     {
       "kind": "single_choice",
-      "options": [],
+      "options": [
+        {
+          "correct": true,
+          "key": "hansi_28773",
+          "text": "Hansi"
+        }
+      ],
       "points": 1,
       "prompt": "Something Great",
       "required": true

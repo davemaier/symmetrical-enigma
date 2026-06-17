@@ -14,6 +14,13 @@
       "points": 1,
       "prompt": "huuhi",
       "required": true
+    },
+    {
+      "kind": "multiple_choice",
+      "options": [],
+      "points": 1,
+      "prompt": "uhiuhiu",
+      "required": true
     }
   ],
   "scheduled_at": null,

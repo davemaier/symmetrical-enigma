@@ -4,13 +4,7 @@
   "questions": [
     {
       "kind": "single_choice",
-      "options": [
-        {
-          "correct": true,
-          "key": "test_116963",
-          "text": "Test"
-        }
-      ],
+      "options": [],
       "points": 1,
       "prompt": "sup",
       "required": true

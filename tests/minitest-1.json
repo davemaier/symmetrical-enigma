@@ -1,7 +1,15 @@
 {
   "description": "",
   "passing_percentage": 60,
-  "questions": [],
+  "questions": [
+    {
+      "kind": "single_choice",
+      "options": [],
+      "points": 1,
+      "prompt": "Something Great",
+      "required": true
+    }
+  ],
   "scheduled_at": "2026-06-30T20:10:00",
   "status": "draft",
   "title": "Minitest 1"

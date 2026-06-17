@@ -17,7 +17,13 @@
     },
     {
       "kind": "multiple_choice",
-      "options": [],
+      "options": [
+        {
+          "correct": false,
+          "key": "uhuk_122562",
+          "text": "uhuk"
+        }
+      ],
       "points": 1,
       "prompt": "uhiuhiu",
       "required": true

@@ -1,7 +1,15 @@
 {
   "description": "Test",
   "passing_percentage": 60,
-  "questions": [],
+  "questions": [
+    {
+      "kind": "single_choice",
+      "options": [],
+      "points": 1,
+      "prompt": "super",
+      "required": true
+    }
+  ],
   "scheduled_at": null,
   "starts_at": null,
   "status": "draft",

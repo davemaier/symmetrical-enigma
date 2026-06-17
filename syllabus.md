@@ -6,6 +6,7 @@ title: Syllabus
 ## Overview
 
 Add the course goals, schedule, expectations, materials, and grading policy here.
+Holy Hamster
 
 {{syllabus:course-info}}
 

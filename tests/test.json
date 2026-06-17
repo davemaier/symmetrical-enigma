@@ -14,6 +14,12 @@
       "points": 1,
       "prompt": "sup",
       "required": true
+    },
+    {
+      "kind": "open_text",
+      "points": 1,
+      "prompt": "huih",
+      "required": false
     }
   ],
   "scheduled_at": "2026-06-15T02:03:00",
